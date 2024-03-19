@@ -9,7 +9,7 @@
     "wix-http-functions": "./.wix/wix-http-functions.ts",
     "interfaces-psp-v1-payment-service-provider": "./.wix/interfaces-psp-v1-payment-service-provider.ts",
     "interfaces-ecom-v1-shipping-rates-provider": "./.wix/interfaces-ecom-v1-shipping-rates-provider.ts",
-    "wix-stores.v2": "npm:@wix/stores/build/es/context.js",
+    "wix-stores.v2": "npm:@wix/stores/build/cjs/context.js",
     "@wix/sdk": "npm:@wix/sdk@1.7.11",
     "@wix/sdk/context": "npm:@wix/sdk@1.7.11/context"
   }
